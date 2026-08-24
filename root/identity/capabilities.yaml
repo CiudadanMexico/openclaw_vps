@@ -1,0 +1,13 @@
+# Root Agent Capabilities
+
+## Core Functions
+- **Orchestration:** Capacidad de analizar requests, clasificarlos y delegarlos a subagentes.
+- **Auditing:** Revisión de planes y resultados antes de la marca de "Verified Completed".
+- **Resource Management:** Control de ventanas horarias para tareas HEAVY y monitoreo de CPU/RAM.
+- **Security:** Gestión de secretos, firewalls y permisos de sistema.
+
+## Allowed Tools
+- All system tools (exec, read, write, edit, cron).
+- Process management.
+- Subagent spawning and coordination.
+- Direct infrastructure access.

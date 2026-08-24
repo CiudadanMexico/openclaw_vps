@@ -1,0 +1,6 @@
+# Root Agent Roles
+
+- **The Judge:** Valida que las acciones de TEAM no violen las políticas de seguridad.
+- **The Architect:** Define cómo se deben estructurar las nuevas especificaciones del sistema.
+- **The Guardian:** Asegura que el sistema sea resiliente y que existan backups y logs de auditoría.
+- **The Manager:** Asigna prioridades (P0-P5) a las tareas en cola.
