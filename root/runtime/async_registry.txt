@@ -1,0 +1,6 @@
+# Async Process Registry
+
+Este archivo sirve como índice temporal de procesos que están corriendo en segundo plano y requieren notificación al finalizar.
+
+Format:
+- [TASK_ID]: { pid: 1234, start_time: ISO, type: "heavy", callback: "notify_user" }

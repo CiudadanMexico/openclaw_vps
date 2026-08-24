@@ -21,5 +21,10 @@ Cuando se detecta una tarea `SUSPECTED_STUCK`:
    - Si es `LIGHT/NORMAL` $\rightarrow$ `RESTART` automático (máx 3 veces).
    - Si es `HEAVY/CRITICAL` $\rightarrow$ `PAUSE` y solicitar `HUMAN_REVIEW`.
 
-## 4. Recheck Scheduler
-El Watchdog gestiona las tareas en `WAITING` con `recheck_at`. Al llegar la hora, mueve la tarea a `QUEUED`.
+## 4. Notificación Proactiva de Finalización
+El Watchdog no solo debe reportar la salud del sistema, sino actuar como el mensajero de resultados.
+
+- **Detección de Cambio:** Si una tarea en `async_registry.txt` pasa de `RUNNING` $\rightarrow$ `COMPLETED` o `FAILED`.
+- **Acción Obligatoria:** El Watchdog debe generar un mensaje visible al usuario inmediatamente después de detectar la finalización.
+- **Formato de Aviso:** "🔔 **Notificación de Tarea:** La tarea [TASK_ID] ha finalizado. Estado: [RESULTADO]. Puedes revisar los detalles en root/tasks/active/[ID]/result.md".
+- **Prioridad:** Este aviso tiene prioridad sobre el `HEARTBEAT_OK`.
