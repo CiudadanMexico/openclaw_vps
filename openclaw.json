@@ -1,0 +1,386 @@
+{
+  "wizard": {
+    "securityAcknowledgedAt": "2026-08-10T21:08:22.746Z",
+    "lastRunAt": "2026-08-31T21:21:49.292Z",
+    "lastRunVersion": "2026.7.1-2",
+    "lastRunCommand": "configure",
+    "lastRunMode": "local"
+  },
+  "agents": {
+    "defaults": {
+      "workspace": "/home/ayisus/.openclaw/workspace",
+      "model": {
+        "primary": "nvidia/deepseek-ai/deepseek-v4-flash-0731",
+        "fallbacks": [
+          "nvidia/deepseek-ai/deepseek-v4-flash-0731"
+        ]
+      },
+      "models": {
+        "ollama/gemma4": {},
+        "ollama/gemma4:31b-cloud": {},
+        "nvidia/deepseek-ai/deepseek-v4-flash-0731": {}
+      },
+      "compaction": {}
+    }
+  },
+  "gateway": {
+    "mode": "local",
+    "auth": {
+      "mode": "token",
+      "token": "25a4d44a02ce516c65d8c98ebd65480bde8754f673ea5ee1"
+    },
+    "port": 18789,
+    "bind": "loopback",
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    },
+    "controlUi": {
+      "allowInsecureAuth": true
+    },
+    "nodes": {
+      "denyCommands": [
+        "camera.snap",
+        "camera.clip",
+        "screen.record",
+        "contacts.add",
+        "calendar.add",
+        "reminders.add",
+        "sms.send",
+        "sms.search"
+      ]
+    }
+  },
+  "session": {
+    "dmScope": "per-channel-peer"
+  },
+  "tools": {
+    "profile": "coding",
+    "media": {
+      "audio": {
+        "enabled": true,
+        "models": [
+          {
+            "command": "/home/ayisus/apps/whisper.cpp/transcribe.sh {{MediaPath}}"
+          }
+        ],
+        "echoTranscript": true
+      }
+    },
+    "deny": []
+  },
+  "plugins": {
+    "entries": {
+      "ollama": {
+        "enabled": true
+      },
+      "whatsapp": {
+        "enabled": true
+      },
+      "telegram": {
+        "enabled": true
+      }
+    }
+  },
+  "models": {
+    "mode": "merge",
+    "providers": {
+      "ollama": {
+        "baseUrl": "https://ollama.185.211.4.178.sslip.io",
+        "api": "ollama",
+        "apiKey": "OLLAMA_API_KEY",
+        "models": [
+          {
+            "id": "gemma4",
+            "name": "gemma4",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 128000,
+            "maxTokens": 8192,
+            "compat": {
+              "supportsTools": true,
+              "supportsUsageInStreaming": true
+            }
+          },
+          {
+            "id": "kimi-k2.5:cloud",
+            "name": "kimi-k2.5:cloud",
+            "reasoning": false,
+            "input": [
+              "text",
+              "image"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 128000,
+            "maxTokens": 8192,
+            "compat": {
+              "supportsTools": false,
+              "supportsUsageInStreaming": true
+            }
+          },
+          {
+            "id": "minimax-m2.7:cloud",
+            "name": "minimax-m2.7:cloud",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 128000,
+            "maxTokens": 8192,
+            "compat": {
+              "supportsTools": true,
+              "supportsUsageInStreaming": true
+            }
+          },
+          {
+            "id": "glm-5.1:cloud",
+            "name": "glm-5.1:cloud",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 128000,
+            "maxTokens": 8192,
+            "compat": {
+              "supportsTools": true,
+              "supportsUsageInStreaming": true
+            }
+          },
+          {
+            "id": "glm-5.2:cloud",
+            "name": "glm-5.2:cloud",
+            "reasoning": true,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 1000000,
+            "maxTokens": 8192,
+            "compat": {
+              "supportsTools": true,
+              "supportsUsageInStreaming": true
+            }
+          },
+          {
+            "id": "gemma4:e2b",
+            "name": "gemma4:e2b",
+            "reasoning": true,
+            "input": [
+              "text",
+              "image"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 131072,
+            "maxTokens": 8192,
+            "compat": {
+              "supportsTools": true,
+              "supportsUsageInStreaming": true
+            }
+          },
+          {
+            "id": "llama3.2:1b",
+            "name": "llama3.2:1b",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 131072,
+            "maxTokens": 8192,
+            "compat": {
+              "supportsTools": true,
+              "supportsUsageInStreaming": true
+            }
+          },
+          {
+            "id": "qwen2.5:0.5b",
+            "name": "qwen2.5:0.5b",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 32768,
+            "maxTokens": 8192,
+            "compat": {
+              "supportsTools": true,
+              "supportsUsageInStreaming": true
+            }
+          },
+          {
+            "id": "gemma4:31b-cloud",
+            "name": "gemma4:31b-cloud",
+            "reasoning": true,
+            "input": [
+              "text",
+              "image"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 262144,
+            "maxTokens": 8192,
+            "compat": {
+              "supportsTools": true,
+              "supportsUsageInStreaming": true
+            }
+          },
+          {
+            "id": "qwen3-coder-next:cloud",
+            "name": "qwen3-coder-next:cloud",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 128000,
+            "maxTokens": 8192,
+            "compat": {
+              "supportsTools": true,
+              "supportsUsageInStreaming": true
+            }
+          }
+        ]
+      },
+      "nvidia": {
+        "baseUrl": "https://integrate.api.nvidia.com/v1",
+        "api": "openai-completions",
+        "apiKey": "${NVIDIA_API_KEY}",
+        "models": [
+          {
+            "id": "deepseek-ai/deepseek-v4-flash-0731",
+            "name": "DeepSeek V4 Flash",
+            "reasoning": true,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 128000,
+            "maxTokens": 16384,
+            "compat": {
+              "supportsTools": true,
+              "supportsUsageInStreaming": true
+            }
+          }
+        ]
+      }
+    }
+  },
+  "auth": {
+    "profiles": {
+      "ollama:default": {
+        "provider": "ollama",
+        "mode": "api_key"
+      }
+    }
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing",
+      "allowFrom": [
+        "@ericktucto"
+      ],
+      "groups": {
+        "*": {
+          "requireMention": true
+        }
+      },
+      "botToken": "8644667263:AAFnTg1GNguQ7d3azNtVoU-EDbbwijW6LOU"
+    },
+    "whatsapp": {
+      "enabled": true,
+      "selfChatMode": true,
+      "dmPolicy": "allowlist",
+      "allowFrom": [
+        "5215559099956",
+        "525523040994",
+        "5215523040994"
+      ]
+    }
+  },
+  "skills": {
+    "install": {
+      "nodeManager": "npm"
+    }
+  },
+  "hooks": {
+    "internal": {
+      "entries": {
+        "session-memory": {
+          "enabled": true
+        }
+      }
+    }
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.7.1-2",
+    "lastTouchedAt": "2026-09-02T19:12:53.966Z"
+  },
+  "commands": {
+    "ownerAllowFrom": [
+      "telegram:1413834556"
+    ]
+  },
+  "browser": {
+    "noSandbox": true
+  }
+}
