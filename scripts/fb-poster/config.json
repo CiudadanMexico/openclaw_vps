@@ -1,0 +1,8 @@
+{
+  "message": "Hola primera publicación de mi agente Faby",
+  "posts": 40,
+  "interval_min_minutes": 7,
+  "interval_max_minutes": 8,
+  "group_ids": [],
+  "notes": "Pon aqui los group_ids de tus grupos (usa list_groups.sh). Para 40 posts en ~5h el intervalo real es ~7-8 min. Si quieres intervalos 20-40 min, sube min/max y baja posts o acepta una duracion mayor."
+}

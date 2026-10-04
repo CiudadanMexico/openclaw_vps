@@ -1,0 +1,165 @@
+<!doctype html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Cooperativismo 6.0 — Ciudadan</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f8fafc;
+    --fg: #172033;
+    --muted: #5b6475;
+    --line: #64748b;
+    --neutral: #e2e8f0;
+    --input: #bfdbfe;
+    --process: #c7d2fe;
+    --storage: #99f6e4;
+    --external: #fde68a;
+    --risk: #fecaca;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f172a;
+      --fg: #e5e7eb;
+      --muted: #a3adbd;
+      --line: #94a3b8;
+      --neutral: #334155;
+      --input: #1d4ed8;
+      --process: #4338ca;
+      --storage: #0f766e;
+      --external: #92400e;
+      --risk: #991b1b;
+    }
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font:
+      14px/1.4 ui-sans-serif,
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      sans-serif;
+  }
+  main {
+    max-width: 980px;
+    margin: 32px auto;
+    padding: 0 20px;
+  }
+  svg {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .title {
+    font-size: 20px;
+    font-weight: 650;
+    fill: var(--fg);
+  }
+  .label {
+    font-size: 14px;
+    font-weight: 600;
+    fill: var(--fg);
+  }
+  .biglabel {
+    font-size: 22px;
+    font-weight: 750;
+    fill: var(--fg);
+  }
+  .small {
+    font-size: 12px;
+    fill: var(--muted);
+  }
+  .node {
+    stroke: var(--line);
+    stroke-width: 1;
+  }
+  .neutral {
+    fill: var(--neutral);
+  }
+  .input {
+    fill: var(--input);
+  }
+  .process {
+    fill: var(--process);
+  }
+  .storage {
+    fill: var(--storage);
+  }
+  .external {
+    fill: var(--external);
+  }
+  .risk {
+    fill: var(--risk);
+  }
+  .edge {
+    stroke: var(--line);
+    stroke-width: 1.5;
+    fill: none;
+  }
+</style>
+<main>
+  <svg viewBox="0 0 900 660" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+    <title id="t">Cooperativismo 6.0 — Ciudadan</title>
+    <desc id="d">Red cooperativa descentralizada centrada en Ciudadan con seis pilares: movilidad, producción, tokens, asambleas, academia y ambientalismo.</desc>
+
+    <!-- Título -->
+    <text x="450" y="30" text-anchor="middle" class="title">Cooperativismo 6.0 — Ciudadan</text>
+    <text x="450" y="52" text-anchor="middle" class="small">Comunidad · Tecnología · Economía colaborativa descentralizada</text>
+
+    <!-- Conectores (detrás de nodos) -->
+    <path d="M450 210 L 450 150" class="edge"/>
+    <path d="M450 210 L 450 150" class="edge"/>
+    <path d="M588 262 L 520 262" class="edge"/>
+    <path d="M588 402 L 520 402" class="edge"/>
+    <path d="M450 456 L 450 516" class="edge"/>
+    <path d="M312 402 L 380 402" class="edge"/>
+    <path d="M312 262 L 380 262" class="edge"/>
+
+    <!-- Núcleo -->
+    <g>
+      <rect x="330" y="210" width="240" height="150" rx="16" class="node process"/>
+      <text x="450" y="252" text-anchor="middle" class="biglabel">Ciudadan</text>
+      <text x="450" y="276" text-anchor="middle" class="label">Cooperativismo 6.0</text>
+      <text x="450" y="300" text-anchor="middle" class="small">Comunidades autónomas</text>
+      <text x="450" y="318" text-anchor="middle" class="small">conectadas en red</text>
+      <text x="450" y="342" text-anchor="middle" class="small">que retribuyen por participar</text>
+    </g>
+
+    <!-- Pilares -->
+    <g>
+      <rect x="375" y="70" width="150" height="78" rx="12" class="node storage"/>
+      <text x="450" y="104" text-anchor="middle" class="label">Movilidad cooperativa</text>
+      <text x="450" y="124" text-anchor="middle" class="small">Taxi / Labory</text>
+    </g>
+    <g>
+      <rect x="590" y="223" width="150" height="78" rx="12" class="node input"/>
+      <text x="665" y="257" text-anchor="middle" class="label">Producción compartida</text>
+      <text x="665" y="277" text-anchor="middle" class="small">Microfábricas 3D</text>
+    </g>
+    <g>
+      <rect x="590" y="363" width="150" height="78" rx="12" class="node external"/>
+      <text x="665" y="397" text-anchor="middle" class="label">Economía tokenizada</text>
+      <text x="665" y="417" text-anchor="middle" class="small">Cripto + rendimientos</text>
+    </g>
+    <g>
+      <rect x="375" y="518" width="150" height="78" rx="12" class="node risk"/>
+      <text x="450" y="552" text-anchor="middle" class="label">Ambientalismo</text>
+      <text x="450" y="572" text-anchor="middle" class="small">de diseño</text>
+    </g>
+    <g>
+      <rect x="160" y="363" width="150" height="78" rx="12" class="node neutral"/>
+      <text x="235" y="397" text-anchor="middle" class="label">Asambleas virtuales</text>
+      <text x="235" y="417" text-anchor="middle" class="small">Gobernanza</text>
+    </g>
+    <g>
+      <rect x="160" y="223" width="150" height="78" rx="12" class="node process"/>
+      <text x="235" y="257" text-anchor="middle" class="label">Academia</text>
+      <text x="235" y="277" text-anchor="middle" class="small">Aprender haciendo</text>
+    </g>
+
+    <!-- Pie -->
+    <text x="450" y="632" text-anchor="middle" class="small">"Ciudadan somos todos los que formamos el Cooperativismo 6.0 por los universos"</text>
+  </svg>
+</main>
