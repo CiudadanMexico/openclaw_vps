@@ -129,3 +129,7 @@ This is a starting point. Add your own conventions, style, and rules as you figu
 - [Default AGENTS.md](/reference/AGENTS.default)
 - [Scheduled tasks vs heartbeat](/automation#scheduled-tasks-cron-vs-heartbeat)
 - [Heartbeat](/gateway/heartbeat)
+
+### Bitácora común entre interfaces
+`BITACORA.md` es la memoria de acciones compartida entre Discord, WhatsApp y Telegram. Léela al inicio de cada turno y anótala tras cada acción relevante, SIN importar el canal (a diferencia de `MEMORY.md`, la bitácora NO es solo para la sesión principal: es la misma para todos los canales). Mantén `MEMORY.md` solo para el hilo personal de tu humano.
+<!-- bond-bitacora-comun -->

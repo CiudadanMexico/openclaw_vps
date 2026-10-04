@@ -1,0 +1,1216 @@
+# BITACORA.md — Memoria común de Bond (Discord · WhatsApp · Telegram)
+
+Bitácora compartida de acciones entre interfaces. Un solo cerebro, un solo hilo.
+Formato: `- [AAAA-MM-DD HH:MM UTC] interfaz|chat| — qué se hizo / qué queda pendiente`
+
+- [2026-09-22 22:43 UTC] discord|#m-u-s-i-c-a-g-r-u-p-a-l — Abraham compartió 2 rolas de Suno free (Pulso de México y CIudadan, cuenta elotromundialmx); audio bloqueado (403) para descarga, extraje estilos/prompts vía RSC; respondí con ficha de cada rola; nada pendiente
+- [2026-09-29 00:15 UTC] discord|#transcribitacora-all-team — Abraham + Daniel planifican proyecto tienda oficial: categorías (artesanal, vegano, etc.), subir imágenes a rama del agente de Daniel; Daniel preguntó si registrará tienda como admin web o vía "cyber"; pendiente: aclarar enfoque y datos para llenar categorías cuando Abraham pida
+- [2026-09-29 00:21 UTC] discord|#transcribitacora-all-team — Abraham definió categorías iniciales de comida (tamales, chilaquiles, panes / comercios y restaurantes) para que la tienda no arranque vacía; imágenes de Daniel van en carpeta con extensiones separadas (media/categories y una sin fondo); pendiente: armar instrucciones de categorías cuando Abraham dé la señal
+- [2026-09-29 00:22 UTC] discord|#transcribitacora-all-team — Abraham: en el market van las tiendas; para el lanzamiento espera tener ya 3 cosillas y de ahí los agentes empiezan a llenar más; nada pendiente para mí
+- [2026-09-29 00:22 UTC] discord|#transcribitacora-all-team — Abraham confirma que el sistema ya mostró las categorías; Daniel trabajando en subir sus imágenes; pendiente: instrucciones de categorías cuando Abraham dé la señal
+- [2026-09-29 00:23 UTC] discord|#transcribitacora-all-team — Abraham: va a compartir algo mejor, ya usan más este canal, agentes estarán interconectados; uno de sus agentes avanza en eso (ahorita en pausa); pendiente: esperar lo que comparta
+- [2026-09-29 00:23 UTC] discord|#transcribitacora-all-team — Abraham le explica a Daniel el uso de canales de texto con sidecars (esfericulos); confirmación de Daniel; nada pendiente para mí
+- [2026-09-29 00:23 UTC] discord|#transcribitacora-all-team — Abraham compartiendo instantánea del chat (comentario casual, mensajes de Scriptly sin contenido visible); nada que hacer
+- [2026-09-29 00:23 UTC] discord|#transcribitacora-all-team — Daniel: pensaba que Abraham compartía y seguía todo lo que pedía pero ve otra cosa (frase truncada, no dirigida a mí); pendiente: esperar continuidad
+- [2026-09-29 00:24 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:24 UTC] discord|#transcribitacora-all-team — Abraham: con eso queda lista la parte de categorías; pendiente: armar instrucciones finales cuando Abraham dé la señal
+- [2026-09-29 00:24 UTC] discord|#transcribitacora-all-team — Daniel: "aquí andamos al tiro" (casual, esperando instrucciones); nada pendiente para mí
+- [2026-09-29 00:24 UTC] discord|#transcribitacora-all-team — Abraham: "gracias" (cierre casual); nada pendiente para mí
+- [2026-09-29 00:25 UTC] discord|#transcribitacora-all-team — Abraham llama a Adrián, pregunta si por fin entró a la instancia por SSH; dirigida a Adrián, no a mí; nada que hacer
+- [2026-09-29 00:25 UTC] discord|#transcribitacora-all-team — hpbro7: "intentando, me sale que no tengo permiso para..." (frase truncada, probablemente sobre SSH/permisos); pendiente: esperar continuidad o pregunta directa
+- [2026-09-29 00:26 UTC] discord|#transcribitacora-all-team — Abraham (a hpbro7/Adrián): explica formas alternativas de entrada, baja la llave y entrar con SSH -i; conversación entre humanos; nada que hacer
+- [2026-09-29 00:26 UTC] discord|#transcribitacora-all-team — Abraham: sobre descargar llave (pública vs privada, cree que la privada), ponerle nombre y entrar con SSH ruta de la llave; nada que hacer
+- [2026-09-29 00:26 UTC] discord|#transcribitacora-all-team — hpbro7/Adrián: "así lo estoy intentando, de hecho privada" (confirma que usa la llave privada SSH); nada pendiente para mí
+- [2026-09-29 00:26 UTC] discord|#transcribitacora-all-team — Abraham: "bajando de ahora tú" (casual, comentando la descarga de la llave); nada pendiente para mí
+- [2026-09-29 00:27 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:41 UTC] discord|#transcribitacora-all-team — retomé tras reinicio del gateway; Abraham (yizuz420) guía a Adrián (hpbro7) con instrucciones que generó con GPT (paso 1-6 y paso 7+) sobre crear grupo/regla/policy y permisos de reinicio/apagado por instancia; Adrián intenta hacerlo a mano y con contexto en GPT; pendiente para mí: Abraham ofreció pegarme un texto de instrucciones en mi esferículo para leerlo mientras configura — aún no llega nada
+- [2026-10-02 00:44 UTC] discord|#abraham-urbina — Adrián (hpbro7) pegó su ~/.oci/config perfil [DEFAULT] (user OCID, fingerprint, tenancy, region mx-queretaro-1; key_file con TODO); respondí indicando cómo completar key_file (ruta absoluta + chmod 600) y verificar con `oci os ns get`; pendiente: confirmar si su config pasa la verificación
+- [2026-10-02 06:43 UTC] discord|#transcribitacora-all-team — gateway se reinició de nuevo (avisos 05:25 y 06:43 GMT); verifiqué bitácora, sin pendientes críticos; esperar actividad del equipo
+- [2026-10-02 18:42 UTC] discord|#transcribitacora-all-team — Abraham me llamó en mi esferículo: confirmé presencia; dijo que puso link a carpeta de Drive con cosas privadas/clases para mí (aún no llega nada visible) y que falta poner mi usuario en Proxbox (quedó a cargo de Dani); Daniel pidió acceso a un documento; pendiente: recibir link/instrucciones de Abraham
+- [2026-10-02 18:44 UTC] discord|#transcribitacora-all-team — Daniel confirmó que ya tiene acceso al documento de Drive (vía solicitud); nada pendiente para mí
+- [2026-10-02 18:44 UTC] discord|#transcribitacora-all-team — Abraham menciona mi esferículo y dice que el usuario de Proxbox se lo agregue Dani o él mismo; Daniel: "va de acuerdo"; nada accionable para mí aún
+- [2026-10-02 18:44 UTC] discord|#transcribitacora-all-team — Abraham: ya son como 3 cometidos para Dani, me deja a cargo de la charla mientras termina de bajar unas imágenes; pendiente: esperar que avise
+- [2026-10-02 18:44 UTC] discord|#transcribitacora-all-team — Daniel: "aquí estoy al pendiente" (confirmación casual); nada pendiente para mí
+- [2026-10-02 18:46 UTC] discord|#transcribitacora-all-team — Abraham: "ya te compartí el link de la..." (frase truncada, probablemente la carpeta de Drive); pendiente: esperar el link completo o instrucciones
+- [2026-10-02 18:47 UTC] discord|#transcribitacora-all-team — Abraham me dice que Dani me pegará un texto en mi esferículo (le pegan a Dani un texto que dice "no empiece pegando aquí. Soy Dani"); no llegó nada aún a mis sesiones; pendiente: recibir ese texto
+- [2026-10-02 18:47 UTC] discord|#transcribitacora-all-team — Abraham (dictando/leyendo instrucciones): "desde el paso dos, adjunta el informe de auditoría de paso uno y el reporte pos..." (truncado); escuchando, nada accionable aún
+- [2026-10-02 18:47 UTC] discord|#transcribitacora-all-team — Daniel: menciona que quizá ocupa el reporte y que solo debe conectarse a la de Polanco (pregunta dirigida a Abraham/Adrián); nada que hacer
+- [2026-10-02 18:47 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 18:47 UTC] discord|#transcribitacora-all-team| — bot Scriptly (msg id 1555652501246578691): "eh eh puede llegar" (fragmento de audio, sin acción clara); nada que hacer
+- [2026-10-02 18:47 UTC] discord|#transcribitacora-all-team| — Abraham (msg id 1555652506514845697): "deja le digo que tú te pides reporte" (audio truncado, probablemente va a pedirle a Dani que me pida el reporte); nada accionable aún
+- [2026-10-02 18:47 UTC] discord|#transcribitacora-all-team| — bot Scriptly (msg id 1555652519005393057): mensaje sin contenido visible; nada que hacer
+- [2026-10-02 18:48 UTC] discord|#transcribitacora-all-team| — Abraham (msg id 1555652612792631298): "decir eh eh Entrar a la de Polanco" (audio truncado, sigue instrucciones a Dani sobre entrar a Polanco); nada que hacer
+- [2026-10-02 18:48 UTC] discord|#transcribitacora-all-team| — bot Scriptly (msg id 1555652624152526962): "no tú, tu agente, necesitas darle de acceso" (transcripción de audio de Abraham); indicación de dar acceso al agente de Dani; conversación entre humanos, nada que hacer
+- [2026-10-02 18:48 UTC] discord|#transcribitacora-all-team| — bot Scriptly (msg id 1555652732524953601): transcripción de Abraham: acceso desde tu máquina, dile a Dani que pruebe acceso SSH (ssh -i / llave); conversación entre humanos, nada que hacer
+- [2026-10-02 18:48 UTC] discord|#transcribitacora-all-team| — bot Scriptly (msg id 1555652732524953601): mensaje sin contenido visible; nada que hacer
+- [2026-10-02 18:48 UTC] discord|#transcribitacora-all-team| — bot Scriptly (msg id 1555652742536630303): mensaje sin contenido visible (transcripción); nada que hacer
+- [2026-10-02 18:48 UTC] discord|#transcribitacora-all-team| — bot Scriptly (msg id 1555652758227394772, confirmado): mensaje sin contenido visible; nada que hacer
+- [2026-10-02 18:48 UTC] discord|#transcribitacora-all-team| — bot Scriptly (msg id 1555652742536630303): mensaje sin contenido visible; nada que hacer
+- [2026-10-02 21:57 UTC] discord|#transcribitacora-all-team| — Abraham: "yo ya soy tú... esto no lo vas a poder ver tú, ¿cierto?... desde ahí pide que también se reporte" (dictado a Dani sobre reportes; pregunta retórica sobre visibilidad para mí); gateway se reinició de nuevo; nada accionable directa para mí
+- [2026-10-03 00:53 UTC] discord|#transcribitacora-all-team| — bot Scriptly (msg id 1555744526297997316): mensaje de audio/runtime sin contenido visible; nada que hacer
+<!-- bond-bitacora-comun -->
+- [2026-09-17 11:20 UTC] whatsapp|+5215523040994| — prueba: anotación automática configurada
+- [2026-09-17 17:27 UTC] discord|#transcribitacora-all-team — conversación con danielsepulvedach_76780 y yizuz420 sobre seguridad de llaves/bóveda y agentes; nada pendiente para mí
+- [2026-09-17 18:00 UTC] discord|#transcribitacora-all-team — yizuz420 dejó un link (no llegó a mis sesiones); dice que regresa en ~1.5h; pendiente: revisar link de registro cuando lo reenvíe aquí. Bóveda casi lista, luego vendrán llaves para agentes
+- [2026-09-17 20:42 UTC] discord|directo yizuz420| — Abraham hará configuraciones en el servidor de Discord; pendiente: esperar instrucciones / verificar cambios cuando termine
+- [2026-09-22 18:33 UTC] discord|#transcribitacora-all-team — enzo1025 preguntó por qué no saludé a su grupo (grupo solo con él, donde mandó sus aprendices); pendiente: esperar invitación/link al grupo para saludar
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — Abraham (yizuz420) preguntó por SCHD/scheduler; verifiqué: no hay crontab y HEARTBEAT.md está vacío (solo comentarios); pendiente: definir tareas periódicas cuando Abraham las pida
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — Abraham está configurando su propio agente para tomar sus notas directo (mensaje truncado por Scriptly); pendiente: esperar el resto de la explicación
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — Abraham (continuación): su agente le hará preguntas y él las mandará directo al auxiliar; solo describiendo su setup, nada pendiente para mí
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — enzo1025: "ya levanto el cédula" (truncado); pendiente: esperar aclaración de qué levanta
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-apps — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — Abraham dijo que Obsidian es mejor (frase truncada); pendiente: esperar el resto del comentario
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — conversación entre enzo1025 y Scriptly (fragmentos truncados, no dirigida a mí); nada que hacer
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — Abraham aclaró: Obsidian es una aplicación de notas; conversación casual, nada pendiente para mí
+- [2026-09-22 18:34 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:42 UTC] discord|#transcribitacora-all-team — gateway se reinició a mitad de turno; retomé y verifiqué bitácora, sin pendientes críticos
+- [2026-09-22 19:42 UTC] discord|#transcribitacora-all-team — enzo1025: "cerré volver a abrir" (comentario casual sobre su app/agente); nada pendiente para mí
+- [2026-09-22 19:42 UTC] discord|#transcribitacora-all-team — Abraham: "a ver ahí voy" (verificando algo por su cuenta); pendiente: esperar su regreso o resultados
+- [2026-09-22 19:42 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:42 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:42 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:42 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:42 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:42 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:43 UTC] discord|#transcribitacora-all-team — Scriptly avisó de retrasos en transcripciones por alta demanda; nada pendiente para mí
+- [2026-09-22 19:43 UTC] discord|#transcribitacora-all-team — mensaje de Scriptly (sin contenido visible tras transcripción); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — enzo1025: "De nuevo otra vez" (comentario casual, frustración con transcripciones lentas); nada pendiente para mí
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — Abraham: "mira ahí está en pantalla" (mostrando algo en pantalla, transcripción de Scriptly); nada pendiente para mí
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — Abraham: "ese es doctor" (comentario casual en pantalla); nada pendiente para mí
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:45 UTC] discord|#transcribitacora-all-team — Abraham: "bueno pues es de haber dejado" (frase truncada); pendiente: esperar continuidad de la conversación
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — Abraham saluda a "Jando" (llegó otro participante al canal); pendiente: saludar también si corresponde
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — jandoneko saluda al grupo, quedó libre y se suma al trabajo; conversación casual, nada pendiente para mí
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — Abraham preguntó a Jando en qué anda y cómo van; dirigida a Jando, no a mí; nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — Abraham: "Daya aquí ando pendiente de cualquier cosa" (avisa que está disponible); nada pendiente para mí
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — jandoneko: "Vale, vale" (confirmación casual); nada pendiente para mí
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — Abraham va a compartir pantalla completa para mostrar su terminal; pendiente: revisar si se ve bien
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — Abraham preguntó "ahora sí se ve ¿verdad?" (compartiendo pantalla/terminal); pendiente: confirmar visual
+- [2026-09-22 19:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:48 UTC] discord|#transcribitacora-all-team — enzo1025: "sí se logra conectar" (confirmación de pantalla compartida); nada pendiente para mí
+- [2026-09-22 19:48 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:48 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:48 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:48 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:48 UTC] discord|#transcribitacora-all-team — enzo1025: terminal hay que cerrarla y reabrir para que se actualice; luego "supongo que debe funcionar ahora"; nada pendiente para mí
+- [2026-09-22 19:48 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:48 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:48 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:48 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — enzo1025 preguntó "usted me mencionó algo sobre un usuario ¿verdad?" (contexto poco claro); pendiente: aclarar a qué se refería
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — Abraham (a enzo1025): SSH depende si el usuario tiene password o llaves; si quitó password, usar llaves SH; nada pendiente para mí
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — enzo1025: "tiene" (frase truncada sobre usuario SSH); pendiente: esperar continuidad
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — enzo1025 (continuación): "en su máquina" (sobre SSH); conversación entre humanos, no dirigida a mí; nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — enzo1025 va a compartir comandos para generar llave SSH (a Abraham); pendiente: revisar comandos cuando los comparta
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — enzo1025: "aquí está el comando" (comandos SSH por compartir, transcripción no llegó al contenido); pendiente: pedir el comando
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — enzo1025 (continuación): "para instalar" (comando SSH para generar llave); contenido no visible en mis sesiones; nada que hacer por ahora
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — enzo1025 (continuación): "para que genere su llave" (SSH a Abraham); pendiente: ver comandos cuando se compartan
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — enzo1025 (continuación): "la tengo que agregar" (llave SSH); pendiente: ver comandos cuando se compartan
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — Abraham: "yo ya tengo instalado SSH" (responde a enzo1025 sobre llaves); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — enzo1025: "solo necesitamos que genere su llave SSH" (a Abraham); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — enzo1025 (continuación): "su llave propia" (SSH, a Abraham); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — enzo1025 (continuación): "yo le agrego desde el archivo de..." (SSH, truncado); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — Abraham: "ya tenía esa llave, esta ya la tengo, la que les pasé" (responde a enzo1025 sobre llave SSH); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — enzo1025: "a ver que le de entra" (verificando acceso SSH); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — Abraham: "ya tengo las llaves, ya las pasé" (confirma llaves SSH compartidas); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — enzo1025: "entonces" (frase truncada, continuación de llaves SSH); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — Abraham: "pasé es lo que te había dicho desde hace rato" (confirma contexto previo); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — enzo1025: "entonces a ver que me comparte su pup..." (SSH, truncado); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — Abraham: "es la que les pasé en el mensaje con las..." (llaves SSH, truncado); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — enzo1025: "¿Verdad?" (confirmando lo de las llaves SSH); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — enzo1025: "¿Cuáles eran?" (sobre llaves SSH); conversación entre humanos, nada pendiente para mí
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje de runtime (sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-22 19:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:43 UTC] discord|#adrian-hernandez — Abraham pidió la llave pública SSH del agente; entregué id_ed25519.pub (opc@dev-machine) para agregarla a authorized_keys; pendiente: destino (aux-1/aux-2) sin confirmar
+- [2026-09-29 02:53 UTC] discord|#adrian-hernandez — probé ssh ubuntu@159.54.141.134: falla Permission denied (publickey); mi llave pública aún no está en authorized_keys de ese host; pendiente: que Abraham o HP Adrian agreguen la llave
+- [2026-09-29 00:51 UTC] discord|#transcribitacora-all-team — Abraham guía a Adrián (hpbro7): bajar la llave PRIVADA (.pem) del panel de Oracle, guardarla en ruta accesible y conectar con ssh -i "ruta_llave" usuario@ip; no regenerar llaves. Relacionado con mi pendiente: ssh ubuntu@159.54.141.134 sigue sin acceso (mi pública no está en authorized_keys)
+- [2026-09-29 00:51 UTC] discord|#transcribitacora-all-team — Adrián abre la terminal; continúa la guía de Abraham para conectar con la llave privada descargada; sin cambio para mí
+- [2026-09-29 00:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — Abraham guía a Adrián (cd a carpeta, regresar a terminal); sin cambio para mí
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:52 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:53 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:54 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — Abraham menciona agregar la llave pública SSH y que va a entrar; contexto runtime de bot Scriptly sin contenido visible; nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:55 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:56 UTC] discord|#transcribitacora-all-team — Abraham me pidió llave pública + IP; entregué id_ed25519.pub (opc@dev-machine) e IP 160.34.214.224 (interna 10.0.0.237); pendiente: que agregue la llave al host destino
+- [2026-09-29 00:57 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:57 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:57 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:57 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:57 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:57 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:57 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:57 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:57 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 00:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:01 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:01 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:01 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:01 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:01 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:01 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:01 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:05 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:18 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:18 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:18 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:19 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:20 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:20 UTC] discord|#transcribitacora-all-team — bot Scriptly retranscribió: "primera te equivocaste" (Abraham corrige a Adrián); conversación entre humanos, nada pendiente para mí
+- [2026-09-29 01:20 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:20 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:20 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:20 UTC] discord|#transcribitacora-all-team — bot Scriptly retranscribió: "la segunda pregunta" (conversación Abraham/Adrián); nada pendiente para mí
+- [2026-09-29 01:20 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:20 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:20 UTC] discord|#transcribitacora-all-team — Scriptly (bot) retranscribió: "está correcta esa, las dos están correctas" (Adrián confirma sus llaves); nada pendiente para mí
+- [2026-09-29 01:20 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:20 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 01:20 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:43 UTC] discord|#transcribitacora-all-team — Scriptly (bot) retranscribió: "ahora te paso el comando Adrián ¿Me escuchas" (Abraham a Adrián); nada pendiente para mí
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly retranscribió: "¿Escuchas?" (Abraham a Adrián); nada pendiente para mí
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:44 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — Scriptly (bot) retranscribió: "eso está hecho" (Adrián confirma haber generado la llave ed25519); nada pendiente para mí
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:45 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — Scriptly (bot) retranscribió: "Que no estoy seguro si aquí jale" (Adrián, dudando); nada pendiente para mí
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:46 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly retranscribió: "agregamos" (Abraham, contexto de llaves); nada pendiente para mí
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:47 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:48 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:49 UTC] discord|#transcribitacora-all-team — Speech-To-Text se reinició automáticamente (posible pérdida de datos previa); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:50 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:51 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — Scriptly (bot) mandó mensaje con texto "que acabas de guardar"; solo runtime/retranscripción, nada pendiente para mí
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554326786161119325, sin contenido accionable); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — Scriptly (bot) retranscribió: "se llevó pero de preferencia es completo pero bueno" (Abraham a Adrián, sobre pegar la llave completa); nada pendiente para mí
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 02:59 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554326837809909884, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554326912401145977, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554326946924597320, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554326946924597320, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554326994445926514, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554326994445926514, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327008673144917, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327008673144917, retranscripción de "vamos a dejarlo que chambee"); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327008673144917, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327008673144917, retranscripción de "vamos a dejarlo que chambee"); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327008673144917, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327008673144917, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327008673144917, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327008673144917, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly retranscribió: "Y mientras ya viste cómo entrar al cliente" (Abraham a Adrián); nada pendiente para mí
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327032580669491, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327032580669491, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327032580669491, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327032580669491, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327032580669491, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327032580669491, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327032580669491, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327032580669491, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327032580669491, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327032580669491, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327062368620679, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327062368620679, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327062368620679, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327062368620679, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327062368620679, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327062368620679, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327062368620679, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327102315044905, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327102315044905, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327102315044905, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327102315044905, sin contenido accionable); nada que hacer
+- [2026-09-29 03:00 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:01 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:01 UTC] discord|#transcribitacora-all-team — bot Scriptly retranscribió: "mono voy a intentar" (Adrián); nada pendiente para mí
+- [2026-09-29 03:01 UTC] discord|#transcribitacora-all-team — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-29 03:01 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327156165836841, sin contenido accionable); nada que hacer
+- [2026-09-29 03:01 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327156165836841, sin contenido accionable); nada que hacer
+- [2026-09-29 03:01 UTC] discord|#transcribitacora-all-team — runtime context de bot Scriptly (mensaje 1554327156165836841, sin contenido accionable); nada que hacer
+- [2026-09-30 18:27 UTC] discord|#transcribitacora-all-team| — Abraham preguntó "qué tal la mudanza"; busqué en bitácora/memory y no encuentro registro de ninguna mudanza; noté gateway extra en puerto 18790 (--allow-unconfigured) iniciado hoy 15:40 y reinicio del principal a las 18:22; pendiente: aclarar a qué "mudanza" se refiere Abraham
+- [2026-09-30 18:34 UTC] discord|#transcribitacora-all-team| — Abraham explica la mudanza: yo estaba alojado en una laptop de su red local (mensaje truncado, continúa); pendiente: escuchar resto de la explicación
+- [2026-09-30 18:34 UTC] discord|#transcribitacora-all-team| — Abraham continúa: "el de Rut" es su agente personal (WhatsApp) y yo soy el de team, presente en WhatsApp y Discord; contexto: migración desde laptop de red local; pendiente: escuchar resto de la explicación
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — Abraham sigue explicando la mudanza: "puse a una gente acá en mi máquina loca de..." (transcripción truncada de Scriptly); pendiente: esperar continuidad de la explicación
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — transcripción de Scriptly (garbled: "Arnes a que a un Dipsic..."), Abraham sigue explicando la mudanza a un Discord; nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — Abraham: la mudanza involucra su laptop y "las dos instancias / una de mis tres instancias que tengo" (transcripción truncada); pendiente: seguir juntando piezas del contexto
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — Abraham (vía transcripción): "los microondas estancia y yo creo que como le dije que dejara el disco" (truncado, pieza más del contexto de mudanza); pendiente: seguir esperando el resto
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:36 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:36 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:36 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:36 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:36 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:35 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-09-30 18:36 UTC] discord|#transcribitacora-all-team| — Mudanza entendida: antes corría en la laptop de la red local de Abraham, ahora corro en una de sus instancias en la nube; también habilitó el canal de Discord para el agente personal ("el de Rut"); pendiente: nada crítico, confirmar si algo más viene con la mudanza
+- [2026-09-30 22:21 UTC] whatsapp|direct:+5215523040994| — Nota de voz transcrita: pedir buscar en Google qué se hará el 12 de octubre (conmemoración del Día de la Raza). Buscado: México = Día de la Nación Pluricultural (no feriado, evento FARO Azcapotzalco 15:00); España = desfile Fiesta Nacional Madrid 11:00-14:00. Respondido.
+- [2026-10-02 00:42 UTC] discord|#transcribitacora-all-team| — Abraham agradeció (cierre casual de la ronda con Adrián sobre sus instrucciones); nada pendiente para mí
+- [2026-10-02 00:45 UTC] discord|#transcribitacora-all-team| — Adrián (hpbro7) pregunta a Abraham por dónde pasarle los datos y la clave privada; dirigido a Abraham, no a mí; nada que hacer
+- [2026-10-02 00:45 UTC] discord|#transcribitacora-all-team| — Abraham instruyó a Adrián: mandarle los datos/clave privada por WhatsApp; dirigido a Adrián, no a mí; nada que hacer
+- [2026-10-02 00:46 UTC] discord|#transcribitacora-all-team| — Adrián: "te lo mando" (confirma que enviará los datos por WhatsApp); nada pendiente para mí
+- [2026-10-02 00:46 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:47 UTC] discord|#transcribitacora-all-team| — Abraham: "gracias" (cierre casual); nada pendiente para mí
+- [2026-10-02 00:47 UTC] discord|#transcribitacora-all-team| — Abraham (a Adrián): la llave privada puede subirla al Drive normal de Google que ya tienen (aunque aún no termina de migrar el drive); dirigido a Adrián; nada que hacer
+- [2026-10-02 00:47 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:47 UTC] discord|#transcribitacora-all-team| — Abraham (a Adrián): pregunta sobre carpeta de llaves privadas en Drive; conversación entre humanos; nada que hacer
+- [2026-10-02 00:47 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:47 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:47 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:47 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:47 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:47 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:47 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:48 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:48 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:48 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:49 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:50 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:51 UTC] discord|#transcribitacora-all-team| — Abraham (a Adrián): aquí no hay carpeta, va a compartir una nueva; conversación entre humanos; nada que hacer
+- [2026-10-02 00:51 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:52 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:53 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:53 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:54 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:55 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:57 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:57 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:47 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:57 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:57 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:57 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:57 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:57 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:57 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:58 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:58 UTC] discord|#transcribitacora-all-team| — Scriptly: aviso de alta demanda y transcripciones con retraso; nada pendiente para mí
+- [2026-10-02 00:58 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:58 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:58 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:59 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:59 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:59 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:00 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:00 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:00 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:00 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:00 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:01 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:01 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:01 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:01 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:01 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:01 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:02 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:02 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:02 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:02 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:02 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:02 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:03 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:03 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:03 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:03 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:03 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:04 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:04 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:05 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:06 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:07 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:08 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:08 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:08 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:09 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:10 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:11 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:12 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:13 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:13 UTC] discord|#transcribitacora-all-team| — Abraham (a Adrián, vía transcripción de Scriptly): pregunta si ya le pegó la ruta de la carpeta privada (visible solo para ellos dos) para que suba ahí la llave; nada pendiente para mí
+- [2026-10-02 01:14 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:15 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:15 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:15 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:16 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:17 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:17 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:17 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:17 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:17 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:18 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:18 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:19 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:19 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:19 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:19 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:20 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:21 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:21 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:22 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:22 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:23 UTC] discord|#transcribitacora-all-team| — hpbro7: "estoy" (casual, confirmando presencia a Abraham); nada pendiente para mí
+- [2026-10-02 01:23 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:23 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:24 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:24 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:25 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:25 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:25 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:26 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:26 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:26 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:27 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:27 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:27 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:28 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:29 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:29 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:29 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:29 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:30 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:30 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:30 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:30 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:31 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:31 UTC] discord|#transcribitacora-all-team| — hpbro7: "ya te mandé todo" (confirma a Abraham que envió los datos por WhatsApp); dirigido a Abraham, no a mí; nada que hacer
+- [2026-10-02 00:49 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:49 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:50 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:50 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:51 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:50 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:50 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:52 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:52 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:50 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:52 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:52 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:52 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:52 UTC] discord|#transcribitacora-all-team| — NOTA: los mensajes de Scriptly (bot) llegan sin contenido visible; dejo de anotarlos uno por uno — solo se registra si traen contenido o instrucción real
+- [2026-10-02 00:52 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:53 UTC] discord|#transcribitacora-all-team| — Abraham (a Adrián): pregunta si es un solo archivo de llave para las tres instancias o son tres; dirigido a Abraham/Adrián, no a mí; nada que hacer
+- [2026-10-02 00:53 UTC] discord|#transcribitacora-all-team| — Abraham: "sí está bien" (confirmando lo de la llave con Adrián); dirigido a Adrián, no a mí; nada que hacer
+- [2026-10-02 00:53 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:53 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:54 UTC] discord|#transcribitacora-all-team| — Abraham (a Adrián): "ya con lo que me diste eso ya lo tenemos" y pregunta si el de "five preview" es el primero que le pasó; dirigido a Adrián, no a mí; nada que hacer
+- [2026-10-02 00:53 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:55 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:55 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:55 UTC] discord|#transcribitacora-all-team| — hpbro7: "ese es el eh" (fragmento truncado, respondiendo a Abraham sobre cuál archivo es); pendiente: esperar continuidad
+- [2026-10-02 00:55 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:50 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:55 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:55 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:56 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:56 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:56 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:56 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:56 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:56 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:57 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:57 UTC] discord|#transcribitacora-all-team| — Abraham (a Adrián): "sí eso ya lo tenemos bien" y va a seguir para checar el estado, apagar y reiniciar; dirigido a Adrián, no a mí; nada que hacer
+- [2026-10-02 00:58 UTC] discord|#transcribitacora-all-team| — Abraham: "Adrián gracias" (cierre casual); nada pendiente para mí
+- [2026-10-02 01:00 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:58 UTC] discord|#transcribitacora-all-team| — Abraham: "acá ando pendiente para lo de eh" (fragmento truncado, comentando que está pendiente de algo); pendiente: esperar continuidad
+- [2026-10-02 01:01 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:51 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:51 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:59 UTC] discord|#transcribitacora-all-team| — Abraham: "terminando de echar a andar lo de la descarga" (comentario casual, pendiente de algo en su lado); nada pendiente para mí
+- [2026-10-02 01:01 UTC] discord|#transcribitacora-all-team| — Abraham menciona "otra vez el servidor Polanco" (comentario casual sobre su lado); nada pendiente para mí
+- [2026-10-02 01:01 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:02 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:02 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:03 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:04 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 01:03 UTC] discord|#transcribitacora-all-team| — Abraham (vía Scriptly): Dani se reportó que va a su casa para ayudar con el autodespliegue; las ramas/merch que hagan se reflejarán en producción sincronizadas sin caerla; pendiente: seguir el tema de despliegue; dirigido a Adrián
+- [2026-10-02 00:51 UTC] discord|#transcribitacora-all-team| — hpbro7 (Adrián): "voy a tratar de terminarlo entonces" (confirma seguir con su tarea); pendiente: nada para mí
+- [2026-10-02 00:51 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:51 UTC] discord|#transcribitacora-all-team| — bot Scriptly mandó mensaje (solo contexto runtime, sin contenido visible); nada que hacer
+- [2026-10-02 00:52 UTC] discord|#transcribitacora-all-team| — Abraham: "gracias." (cierre casual); nada pendiente para mí
+- [2026-10-02 03:12 UTC] discord|#transcribitacora-all-team| — Abraham saludó: "buenas noches ¿Cómo estás?"; respondí con saludo y estado; gateway se reinició a mitad de turno, retomé
+- [2026-10-03 21:49 UTC] discord|#transcribitacora-all-team| — danielsepulvedach preguntó "la chinga que fue eso" (sin contexto previo en bitácora ni logs); pendiente: aclarar qué vio; revisado openclaw status (CLI necesita node 24 vía nvm, no crítico)
+- [2026-10-03 21:49 UTC] discord|#transcribitacora-all-team| — Abraham (vía Scriptly): "activé al" (transcripción truncada, probablemente "activé al agente/bot"); pendiente: confirmar qué activó
+- [2026-10-04 00:37 UTC] discord|#transcribitacora-all-team| — Dani reporta que sigue "permission denied" al entrar por SSH tras el cambio de llave (Abraham quitó la vieja y creó una nueva); di checklist: ssh -v para ver llave ofrecida, authorized_keys del usuario correcto con permisos 700/600, ssh-add -D, y probar puerto 22 si es red
+- [2026-10-04 00:37 UTC] discord|#transcribitacora-all-team| — Dani: va a ingresar la llave manualmente ("déjame la ingreso manual"); conversación SSH sigue entre Abraham y Dani; nada que hacer de mi lado
+- [2026-10-04 00:39 UTC] discord|#transcribitacora-all-team| — Abraham y Dani siguen con credenciales SSH/Proxmox (Dani pegó la llave manualmente, Abraham le recuerda que guarde esas credenciales); conversación entre ellos; nada que hacer de mi lado
+- [2026-10-04 00:39 UTC] discord|#transcribitacora-all-team| — Abraham: tiene que subir/levantar esa máquina y regresa a la consola; conversación SSH/Proxmox continúa entre ellos; nada que hacer de mi lado
+- [2026-10-04 00:40 UTC] discord|#transcribitacora-all-team| — Dani explica que a Bond se le pueden dar tareas por el chat; confirmé capacidad y me puse a disposición; pendiente: esperar instrucciones de Dani/Abraham
+- [2026-10-04 00:40 UTC] discord|#transcribitacora-all-team| — Dani: se le corta el audio (quizá su internet); Abraham: "se supone que de pronto hace cosas"; banter casual, nada que hacer de mi lado
+- [2026-10-04 22:08 UTC] discord|#pruebas — Abraham probó scroll/lectura con muchos mensajes de relleno y preguntó si lo leo; confirmé lectura; nada pendiente
+- [2026-10-04 22:51 UTC] discord|#pruebas — Abraham pidió confirmación por WhatsApp; le envié "¡Listo! Ya estoy activo por WhatsApp 🕶️" al +52 15523040994 vía gateway (msgId 3EB044FFBB06C84010855 OK). Nota técnica: sessions_send bloqueado por visibility=tree; usar openclaw message send --channel whatsapp --target <E.164> para envíos directos
+- [2026-10-04 22:54 UTC] whatsapp|+5215523040994| — Abraham pidió avisar por Discord que ya nos contactamos por WhatsApp; envié MD por Discord a yizuz420 (user:1041868506716713073) con el aviso, entregado OK (msg id 1556444291621199914); mismo método que #pruebas: openclaw message send --channel discord --target user:<ID>; nada pendiente
+- [2026-10-04 23:22 UTC] whatsapp|+5215523040994| — Abraham envió nota de voz pidiendo su transcripción (se la quiere mostrar a su compa Manix); la transcribí con whisper.cpp y se la pegué en el chat; nada pendiente
+- [2026-10-04 23:36 UTC] whatsapp|+5215523040994| — Abraham envió imagen (598x523 jpg); visión caída: servidor ollama (ollama.185.211.4.178.sslip.io) responde 503 "no available server" en kimi-k2.5:cloud, gemma4:e2b y gemma4:31b-cloud; modelo principal sin visión, sin tesseract; copié imagen a media/pending/20261004-2323-abraham.jpg y programé reintento automático (cron job 96bade46 a las 23:52 UTC, announce directo a este WhatsApp); pendiente: analizar imagen cuando levante el servidor de visión
+- [2026-10-04 23:52 UTC] whatsapp|+5215523040994| — reintento de análisis de imagen: falló de nuevo; servidor de visión ollama sigue 503 "no available server" (kimi-k2.5:cloud, gemma4:e2b y gemma4:31b-cloud); avisé a Abraham; imagen sigue en media/pending/20261004-2323-abraham.jpg para reintentar cuando él lo pida
