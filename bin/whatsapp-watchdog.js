@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const fs=require('fs');
 const {execFileSync}=require('child_process');
-const HOME='/home/ayisus';
+const HOME='/home/opc/oc1';
 const OC=HOME+'/.openclaw/bin/openclaw';
 const LEDGER=HOME+'/.openclaw/whatsapp-ledger';
 const STATE=HOME+'/.openclaw/whatsapp-watchdog.state';

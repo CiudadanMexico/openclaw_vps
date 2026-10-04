@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec /home/opc/oc1/.openclaw/tools/node-v24.15.0/bin/node /home/opc/oc1/.openclaw/dsh-ctrl/dsh-ctrl.js "$@"

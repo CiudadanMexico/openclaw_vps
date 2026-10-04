@@ -29,3 +29,8 @@ openclaw.json.clobbered.*
 openclaw.json.dshbak-*
 openclaw.json.last-good
 whatsapp-watchdog.state
+
+extensions/
+discord/
+*.pre-*
+openclaw.json
